@@ -1,0 +1,45 @@
+{An-Di Hsu: !!python/str "\u8A31\u5B89\u7393", Chang-Feng Dai: !!python/str "\u6234\u660C\
+    \u9CF3", Chao-Kai Kang: !!python/str "\u5EB7\u5146\u51F1", Chaolun Allen Chen: !!python/str "\u9673\u662D\
+    \u502B", Cheng-Feng You: !!python/str "\u6E38\u93AE\u70FD", Cheng-Hsiu Tsai: !!python/str "\u8521\u653F\
+    \u4FEE", Cheng-Hsueh Lee: !!python/str "\u674E\u653F\u5B78", Cheng-Tsung Tseng: !!python/str "\u66FE\u9266\
+    \u742E", Chi-Cheng Liao: !!python/str "\u5ED6\u555F\u653F", Chia-Hao Chang: !!python/str "\u5F35\u5BB6\
+    \u8C6A", Chia-Hsuan Wei: !!python/str "\u97CB\u5BB6\u8ED2", Chiao: !!python/str "\u7126\u50B3\
+    \u91D1", Ching-Feng Weng: !!python/str "\u7FC1\u6176\u8C50", Chuan-Chin Chiao: !!python/str "\u7126\u50B3\
+    \u91D1", Chun-Hsiang Chang: !!python/str "\u5F35\u921E\u7FD4", Chung-Chi Lin: !!python/str "\u6797\u5B97\
+    \u5C90", Chung-Ping Lin: !!python/str "\u6797\u4EF2\u5E73", Daniel Chen: !!python/str "\u9673\u70AB\
+    \u4EFB", En-Cheng Yang: !!python/str "\u694A\u6069\u8AA0", Feng-Ting Chang: !!python/str "\u5F35\u9CF3\
+    \u5A77", Feng-Yu Wang: !!python/str "\u738B\u8C50\u5BD3", Guan-Hua Chen: !!python/str "\u9673\u51A0\
+    \u6A3A", Hau-Jie Shiu: !!python/str "\u8A31\u7693\u6377", Hernyi Justin Hsieh: !!python/str "\u8B1D\u6046\
+    \u6BC5", Hong-Yong Yan: !!python/str "\u56B4\u5B8F\u6D0B", Hsi-Te Shih: !!python/str "\u65BD\u7FD2\
+    \u5FB7", Hsiao-Wei Yuan: !!python/str "\u8881\u5B5D\u7DAD", Hsin-Lin Wei: !!python/str "\u97CB\u6615\
+    \u6797", Hsing-Juh Lin: !!python/str "\u6797\u5E78\u52A9", Hsuan-Wien Chen: !!python/str "\u9673\u5BA3\
+    \u6C76", Hua-Te Fang: !!python/str "\u65B9\u83EF\u5FB7", Hui-Yun Tseng: !!python/str "\u66FE\u60E0\
+    \u82B8", I-Jiun Cheng: !!python/str "\u7A0B\u4E00\u99FF", I-Jiunn Chen: !!python/str "\u7A0B\u4E00\
+    \u99FF", I-Jiunn Cheng: !!python/str "\u7A0B\u4E00\u99FF", I-Rong Lin: !!python/str "\u6797\u5B9C\
+    \u84C9", Jen-Zon Ho: !!python/str "\u4F55\u5065\u9394", Jenn-Che Wang: !!python/str "\u738B\u9707\
+    \u54F2", Jing-Huan Kuo: !!python/str "\u90ED\u5106\u5BF0", Kai-Jung Chi: !!python/str "\u7D00\u51F1\
+    \u5BB9", Kuo-Wei Lee: !!python/str "\u674E\u570B\u744B", Kuo-Wei Li: !!python/str "\u674E\u570B\
+    \u744B", Lan-Wei Yeh: !!python/str "\u8449\u4EBA\u744B", Liang-Kong Lin: !!python/str "\u6797\u826F\
+    \u606D", Ling-Ying Tsai: !!python/str "\u8521\u9F61\u7469", Liu: !!python/str "\u5289\u7FFC\
+    \u9CF4", Lucia Liu Severinghaus: !!python/str "\u5289\u5C0F\u5982", Meng-Ying Tsai: !!python/str "\u8521\u5B5F\
+    \u7A4E", Min Liu: !!python/str "\u5289\u9298", Ming-Chih Shih: !!python/str "\u65BD\u660E\
+    \u667A", Ming-Huang Wu: !!python/str "\u5433\u660E\u714C", Ming-Hui Chen: !!python/str "\u9673\u660E\
+    \u8F1D", Mong-Huai Su: !!python/str "\u8607\u5922\u6DEE", Pei-Fen Lee: !!python/str "\u674E\u57F9\
+    \u82AC", Pei-Jie Meng: !!python/str "\u5B5F\u57F9\u5091", Pei-Yuan Sheu: !!python/str "\u5F90\u57F9\
+    \u6E90", Ping-Shin Yang: !!python/str "\u694A\u5E73\u4E16", Shan-Hui Su: !!python/str "\u8607\u73CA\
+    \u6167", Shang-Yin Vanson Liu: !!python/str "\u5289\u5546\u96B1", Shen-Horn Yen: !!python/str "\u984F\u8056\
+    \u7D18", Sheng-Hai Wu: !!python/str "\u5433\u8072\u6D77", Shou-Chung Huang: !!python/str "\u9EC3\u5B88\
+    \u5FE0", Si-Min Lin: !!python/str "\u6797\u601D\u6C11", Su-Hwa Chen: !!python/str "\u9673\u6DD1\
+    \u83EF", Szu-Han Wang: !!python/str "\u738B\u601D\u51FD", Teng-Lang Yu: !!python/str "\u6E38\u767B\
+    \u826F", Tsung-Han Lee: !!python/str "\u674E\u5B97\u7FF0", Tzi-Yuan Wang: !!python/str "\u738B\u5B50\
+    \u5143", Tzu-Wei Chan: !!python/str "\u8A79\u5B50\u7DEF", Wei-Chung Liu: !!python/str "\u5289\u7DAD\
+    \u4E2D", Wen-Chung Fu: !!python/str "\u5085\u96EF\u541B", Wen-Kai Yang: !!python/str "\u694A\u6587\
+    \u51F1", Wen-Long: !!python/str "\u6797\u6587\u9686", Wen-San Huang: !!python/str "\u9EC3\u6587\
+    \u5C71", Wen-Yuan Kao: !!python/str "\u9AD8\u6587\u5A9B", Xin-Wei Ruan: !!python/str "\u962E\u4FE1\
+    \u744B", Xin-Xian Wen: !!python/str "\u6EAB\u6B23\u61B2", Yi-Hsuan Tu: !!python/str "\u675C\u5B9C\
+    \u8ED2", Yu-Ching Tsai: !!python/str "\u8521\u9918\u6176", Yu-Feng Hsu: !!python/str "\u5F90\u5809\
+    \u5CF0", Yu-Hsi Wang: !!python/str "\u738B\u7389\u74BD", Yu-Hsin Wu: !!python/str "\u5433\u90C1\
+    \u6615", Yu-Ling Lin: !!python/str "\u6797\u6631\u4F36", Yuan-Chao Angelo Huang: !!python/str "\u9EC3\u5143\
+    \u7167", Yuan-Hsun Sun: !!python/str "\u5B6B\u5143\u52F3", Yuan-Mou Chang: !!python/str "\u5F35\u539F\
+    \u8B00", Yuying Hsu: !!python/str "\u8A31\u923A\u9E1A", Zih-Jing Tang: !!python/str "\u6E6F\u5B50\
+    \u83C1"}

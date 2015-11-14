@@ -11,6 +11,7 @@ import re
 from pdb import set_trace
 from traceback import print_exc
 import yaml
+import cPickle
 
 sb.set_context('poster')
 font = 'AR PL KaitiM Big5'
@@ -87,17 +88,19 @@ def preproc(df):
             data = [y for y in map(frgx2, data) if y != '']
             data = map(frgx3, data)
             data = map(fnamedic, data)
-            s1.append(' | '.join(data))
+            s1.append(data)
     except:
         print_exc()
         set_trace()
 
     fnamedic(None)
     s1 = pd.Series(s1, index=s.index)
-    s1.to_csv('names.txt', index=False)
+    s1.apply(lambda x: ' | '.join(x)).to_csv('names.txt', index=False)
+    return s1
 
 
 def makenamedic():
+    # 英漢名字對照
     dic = {}
 
     def fix(s):
@@ -132,4 +135,6 @@ if __name__ == '__main__':
     """"""
     refresh = True
     PrepData(refresh)
-    preproc(df)
+    s1 = preproc(df)
+    df['authors'] = s1.apply(lambda x1: [x.decode('utf8') for x in x1])
+
